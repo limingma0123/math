@@ -18,6 +18,7 @@ int main(void)
 	printf("c = 0x%x\n", c);
         c = addfunc(a, b);
 	printf("c = %d\n", c);
-
+	c = mutilfunc(a, b);
+	printf("c = %d\n", c);
 	return c;
 }
