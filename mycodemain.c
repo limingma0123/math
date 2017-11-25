@@ -3,6 +3,10 @@ int addfunc(int a, int b)
 {
 	return a + b;
 }
+int mutilfunc(int a, int b)
+{
+	return a*b;
+}
 
 int main(void)
 {
