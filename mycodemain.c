@@ -20,5 +20,6 @@ int main(void)
 	printf("c = %d\n", c);
 	c = mutilfunc(a, b);
 	printf("c = %d\n", c);
+	//master try
 	return c;
 }
