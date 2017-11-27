@@ -21,5 +21,6 @@ int main(void)
 	c = mutilfunc(a, b);
 	printf("c = %d\n", c);
 	//test
+	//I test git diff again
 	return c;
 }
