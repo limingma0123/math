@@ -25,3 +25,8 @@ int main(void)
 	//I test git diff again
 	return c;
 }
+
+void display(void)
+{
+	return 0;
+}
