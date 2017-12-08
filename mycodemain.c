@@ -25,3 +25,9 @@ int main(void)
 	//I test git diff again
 	return c;
 }
+
+void display(void)
+{
+	printf("It is a beautiful world\n");
+	return 0;
+}
