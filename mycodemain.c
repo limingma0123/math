@@ -11,7 +11,7 @@ int mutilfunc(int a, int b)
 int main(void)
 {
 	int a = 0;
-	int b = 5;
+	int b = 88
 	int c = 0;
 
 	c = a + b;
