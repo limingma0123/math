@@ -12,6 +12,7 @@ int main(void)
 {
 	int a = 0;
 	int b = 7;
+	int b = 88
 	int c = 0;
 
 	c = a + b;
