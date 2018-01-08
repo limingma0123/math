@@ -14,6 +14,7 @@ int main(void)
 	int b = 7;
 	int b = 88
 	int c = 0;
+	int d = 9;
 
 	c = a + b;
 	printf("c = 0x%x\n", c);
@@ -29,6 +30,6 @@ int main(void)
 
 void display(void)
 {
-	printf("It is a beautiful world\n");
+	printf("It is a beautiful world\n");;
 	return 0;
 }
