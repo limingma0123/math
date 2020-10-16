@@ -33,3 +33,8 @@ void display(void)
 	printf("It is a beautiful world\n");;
 	return 0;
 }
+
+void sleep(void)
+{
+	return;
+}
